@@ -11,18 +11,16 @@
   "icons": [
     {
       "src": "/vite.svg",
-      "type": "image/svg+xml"
-    },
-    {
-      "src": "/icon-512.png",
-      "type": "image/png",
-      "sizes": "512x512"
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
     }
   ],
   "screenshots": [
     {
-      "src": "/vite.svg",
-      "type": "image/svg+xml"
+      "src": "/screenshot.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ]
 }
