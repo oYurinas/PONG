@@ -1,0 +1,26 @@
+{
+  "background_color": "#4f5963",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Pong",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Poong",
+  "start_url": "index.html",
+  "theme_color": "#4f5963",
+  "id": "https://www.yuri.grupo-04.sd.ufersa.dev.br",
+  "icons": [
+    {
+      "src": "IMAGEM.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "IMAGEM.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
