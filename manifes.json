@@ -11,14 +11,14 @@
   "id": "https://www.yuri.grupo-04.sd.ufersa.dev.br",
   "icons": [
     {
-      "src": "IMAGEM.png",
+      "src": "vite.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
   "screenshots": [
     {
-      "src": "IMAGEM.png",
+      "src": "vite.png",
       "type": "image/png",
       "sizes": "512x512"
     }
