@@ -12,13 +12,12 @@
     {
       "src": "/vite.svg",
       "type": "image/svg+xml",
-      "sizes": "512x512",
-      "purpose": "any maskable"
+      "sizes": "512x512"
     }
   ],
   "screenshots": [
     {
-      "src": "/screenshot.png",
+      "src": "/vite.svg",
       "type": "image/png",
       "sizes": "512x512"
     }
